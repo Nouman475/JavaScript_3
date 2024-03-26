@@ -1,0 +1,17 @@
+
+body{
+    background-color: rgb(243, 237, 229);
+}
+header, footer, .original{
+    background-color:#005f73;
+}
+main{
+    min-height: calc(100vh - 140px);
+}
+/*.btn-danger{
+    padding: 3px auto;
+}*/
+#result{
+    height: 215px;
+    overflow-y: scroll;
+}
